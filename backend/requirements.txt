@@ -7,3 +7,17 @@ psycopg2
 
 # for environment variables
 python-dotenv
+
+# hashing
+passlib[bcrypt]
+
+# Schema validation
+pydantic[email]
+
+# for testing
+pytest
+requests
+pytest-cov
+
+# html template
+jinja2
